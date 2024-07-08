@@ -3,8 +3,8 @@ import os
 # print(os.getcwd())
 # number = input("Enter a number: ")
 # file_name = input("Enter the file name: ")
-number = "58"
-file_name = "Length of Last Word"
+number = ""
+file_name = ""
 
 safe_file_name = file_name.replace(" ", "")
 
