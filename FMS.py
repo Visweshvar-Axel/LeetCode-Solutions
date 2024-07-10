@@ -27,7 +27,7 @@ python_content = r"""
 
 """
 
-cpp_content = """
+cpp_content = r"""
 
 """
 
